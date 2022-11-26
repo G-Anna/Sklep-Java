@@ -1,0 +1,12 @@
+B³agam, kupi³: [Lego , Szachy , Miœ , Lalka ] Mon Jun 11 17:07:38 CEST 2018 
+Pirat, kupi³: [Szachy , Lego ] Thu Jun 14 14:08:38 CEST 2018 
+Jan, kupi³: [Miœ , Klocki , Resoraki ] Thu Jun 14 16:15:18 CEST 2018 
+Pirat, kupi³: [Klocki ] Sat Jun 16 14:47:18 CEST 2018 
+Marysia, kupi³: [Resoraki , Miœ , Lego , Resoraki ] Sat Jun 16 15:17:16 CEST 2018 
+Jan, kupi³: Resoraki Lego Klocki  Sat Jun 16 15:31:18 CEST 2018 
+Pirat, kupi³: Kolorowanki Miœ  Sat Jun 16 15:32:16 CEST 2018 
+Analiza, kupi³: Pilka Lego  Mon Jun 18 09:10:03 CEST 2018 
+Analiza, kupi³: Resoraki  Mon Jun 18 09:29:19 CEST 2018 
+Analiza, kupi³: Miœ  Mon Jun 18 09:29:28 CEST 2018 
+Pirat, kupi³: Lalka  Mon Jun 18 10:23:40 CEST 2018 
+Pirat, kupi³: Szachy  Mon Jun 18 16:01:12 CEST 2018 
